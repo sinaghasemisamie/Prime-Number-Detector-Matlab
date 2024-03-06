@@ -1,4 +1,4 @@
-%%% Prime Number Detecror
+%%% Prime Number Detetror
 %%% Difficulty: Amateur
 %% Basic Structures
 clear 
