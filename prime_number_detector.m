@@ -1,4 +1,3 @@
-%%% Rebron 
 %%% Prime Number Detecror
 %%% Difficulty: Amateur
 %% Basic Structures
